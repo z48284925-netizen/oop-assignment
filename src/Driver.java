@@ -6,6 +6,6 @@ public class Driver {
         this.lic=lic;
     }
     public void displayDriverInfo(){
-        System.out.println("Водитель -> "+name+" | "+lic);
+        System.out.println("Водитель - "+name+" | "+lic);
     }
 }
