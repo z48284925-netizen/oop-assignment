@@ -38,7 +38,7 @@ Driver object inside Vehicle
 
 an array with different vehicle types
 
-Summary
+**Summary**
 
 The task shows how inheritance makes code simpler.
 Shared things go into the Vehicle class, and each subclass has its own behavior.
